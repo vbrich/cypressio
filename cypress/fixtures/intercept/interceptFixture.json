@@ -1,0 +1,10 @@
+
+[
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "interceptexample",
+      "email": "rich@test.biz",
+      "body": "testing my mock api"
+    }
+  ]
