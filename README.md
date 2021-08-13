@@ -1,6 +1,6 @@
 # cypressio
 
-This site isn't really a site. Just a blank npm project, but installed the Cypress module so I could play with their runner and basic external tests. Cypress wasn't really designed for internal testing. It is meant to be integrated into existing apps, so doubtful this repo will go very far. 
+Just a blank npm project, but installed the Cypress module so I could play with their runner and basic external tests. Not really the concept of Cypress (to test external sites), but giving it a shot. 
 
 https://www.youtube.com/watch?v=OIAzwr-_jhY
 
